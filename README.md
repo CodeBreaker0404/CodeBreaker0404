@@ -6,7 +6,7 @@
 
 
 ###
-
+Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -20,7 +20,7 @@
 </div>
 
 ###
-
+Socials
 <br clear="both">
 
 <h6 align="left">Discord - codebreaker0404</h6>
